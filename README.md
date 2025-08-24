@@ -14,5 +14,6 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 ## Conteúdo
 
-[Orientação a objetos](objetos.ipynb)
-[Iterabilidade](iterabilidade.ipynb)
+**[Orientação a objetos](objetos.ipynb)**
+
+**[Iterabilidade](iterabilidade.ipynb)**
