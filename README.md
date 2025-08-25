@@ -1,4 +1,4 @@
-# Projeto Pytop
+# Pytop
 
 Tópicos especiais da linguagem Python.
 
@@ -14,6 +14,6 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 ## Conteúdo
 
-**[Orientação a objetos](objetos.ipynb)**
+**[Objetos](objetos.ipynb)**
 
 **[Iterabilidade](iterabilidade.ipynb)**
