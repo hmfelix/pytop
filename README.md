@@ -1,5 +1,7 @@
 # Pytop
 
+**(A ESCRITA DESTE PROJETO ESTÁ EM ANDAMENTO)**
+
 Tópicos especiais da linguagem Python.
 
 ## Descrição
@@ -14,7 +16,15 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 ## Conteúdo
 
+**[0. Python](python.ipynb)**
+
 **[Objetos](objetos.ipynb)**
+
+**[Nomes](nomes.ipynb)**
+
+**[Escopos](escopos.ipynb)**
+
+**[Funcoes](funcoes.ipynb)**
 
 **[Iterabilidade](iterabilidade.ipynb)**
 
