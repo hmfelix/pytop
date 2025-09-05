@@ -16,7 +16,7 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 ## Conteúdo
 
-**[0. Python](python.ipynb)**
+**[0. Python](00.python.ipynb)**
 
 **[Objetos](objetos.ipynb)**
 
