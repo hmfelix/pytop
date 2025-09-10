@@ -16,13 +16,13 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 ## Conteúdo
 
-**[0. Python](00.python.ipynb)**
+**[0. Pythons](00_pythons.ipynb)**
 
-**[Objetos](objetos.ipynb)**
+**[1. Objetos](01_objetos.ipynb)**
 
-**[Nomes](nomes.ipynb)**
+**[2. Nomes](02_nomes.ipynb)**
 
-**[Escopos](escopos.ipynb)**
+**[3. Escopos](03_escopos.ipynb)**
 
 **[Funcoes](funcoes.ipynb)**
 
