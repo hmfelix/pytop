@@ -24,7 +24,7 @@ O usuário pode ler todo o conteúdo a partir do navegador, bastando clicar em a
 
 **[3. Escopos](03_escopos.ipynb)**
 
-**[Funcoes](funcoes.ipynb)**
+**[4. Funcoes](04_funcoes.ipynb)**
 
-**[Iterabilidade](iterabilidade.ipynb)**
+**[5. Iterações](05_iterabilidade.ipynb)**
 
